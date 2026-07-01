@@ -85,6 +85,5 @@ This is what I actually did building and analyzing this lab — described as con
 
 ---
 
-**Domenico Pisicoli**
 
 *Feedback and detection-engineering suggestions are welcome via GitHub Issues.*
