@@ -1,6 +1,6 @@
 # SOC & Honeypot Lab
 
-**Author:** Domenico Pisicoli 
+**Author:** Domenico Pisicoli <br>
 
 **Project Status:** 🟢 Active  
 
