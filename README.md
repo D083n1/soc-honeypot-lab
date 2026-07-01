@@ -29,8 +29,9 @@ This honeypot runs in an isolated Docker environment on infrastructure I own and
 Each dated report below documents one analysis session over the honeypot's captured traffic — statistics, detection engineering notes, and individually evidenced incidents with MITRE ATT&CK mapping and a confidence level attached to every conclusion.
 
 - **2026-06-29** — First analysis batch (5 incidents): credential-guessing compromises, an SSH tunneling attempt toward Cloudflare infrastructure, automated scanning, and a self-identified false positive → [read the report](./incident-reports/2026-06-29-analysis.md)
+- **2026-07-01** — Second analysis batch (6 incidents, 6-day window): a replayed multi-architecture malware-dropper campaign with SSH persistence, a 22-second automated backdoor deployment chain, and two high-volume automated credential-stuffing bots → [read the report](./incident-reports/2026-07-01-analysis.md)
 - *(Future reports will be added here as new traffic is captured and analyzed.)*
-
+  
 ---
 
 ## Architecture
