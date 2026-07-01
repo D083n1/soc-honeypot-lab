@@ -1,8 +1,11 @@
 # SOC & Honeypot Lab
 
-**Author:** Domenico Pisicoli
-**Project Status:** 🟢 Active 
+**Author:** Domenico Pisicoli 
+
+**Project Status:** 🟢 Active  
+
 **Last Updated:** 2026-07-01
+
 **Stack:** Cowrie SSH/Telnet Honeypot (Oracle Cloud) → Wazuh SIEM (local, self-hosted) → Evidence-based incident analysis
 
 ---
